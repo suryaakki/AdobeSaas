@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/suryaakki/AdobeSaas/
+    type: markup
+
+folders:
+  /products/: /products/default
